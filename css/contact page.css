@@ -88,3 +88,6 @@ h1{
     margin-right: 50px;
     margin-top: 50px;
 }
+.active {
+    border-bottom: 6px solid moccasin;
+}

@@ -176,3 +176,6 @@ nav:after {
        top: 1183px;
        left: 380px;
    }
+.active {
+    border-bottom: 6px solid moccasin;
+}
